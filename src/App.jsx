@@ -1,7 +1,7 @@
 import { TaskManager } from "./TaskManager/TaskManager";
 
 
-export function App() {
+export default function App() {
   return (
     <div>
     <TaskManager />
