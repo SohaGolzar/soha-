@@ -1,0 +1,35 @@
+.task-manager {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 40px;
+    margin: 20px;
+    background-color: #709d6e;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #1f4e29;
+  }
+  
+  .filter-container {
+    margin: 20px 0;
+  }
+  
+  .filter-container label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #6f935e;
+  }
+  

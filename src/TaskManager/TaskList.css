@@ -1,0 +1,21 @@
+.task-list {
+    margin-top: 20px;
+  }
+  
+  .task {
+    border: 1px solid #457545;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+    max-width: 400px;
+    background-color: #f9f9f9;
+  }
+  
+  .task h2 {
+    color: #1f4e29;
+  }
+  
+  .task p {
+    margin: 5px 0;
+  }
+  
